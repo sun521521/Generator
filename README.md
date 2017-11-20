@@ -14,9 +14,9 @@
 如图：
 ![](https://github.com/sun521521/Generator/blob/master/results/algorithm.jpg)
 
-大量的模拟实验表明，我们提出的算法可以产生性能优良的负二项分布随机数，二阶段模型（leftt）和三阶段模型(right)模拟效果:
-![](https://github.com/sun521521/Generator/blob/master/results/results2.jpg)
-![](https://github.com/sun521521/Generator/blob/master/results/results3.jpg)
+大量的模拟实验表明，我们提出的算法可以产生性能优良的负二项分布随机数，二阶段模型（leftt）和三阶段模型(right)模拟效果:<br>
+![](https://github.com/sun521521/Generator/blob/master/results/results2.jpg)<br>
+![](https://github.com/sun521521/Generator/blob/master/results/results3.jpg)<br>
 他们都可以很好的产生满足要求的随机数。
 
 实验中，我们设定模型中的参数，分别产生了500个随机数来比较随机模拟与真实的结果 。
